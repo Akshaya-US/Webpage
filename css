@@ -1,0 +1,80 @@
+body{
+    font-family: 'Dancing Script', cursive;
+}
+.first{
+    background-color: #FFE5CA;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 60px;
+}
+.left{
+    position: absolute;
+    left: 5%;
+    top: 3%;
+}
+.right{
+    position: relative;
+    padding-left: 80%;
+    padding-bottom: 1.5%;
+}
+.image{
+    width: 900px;
+    height: 800px; 
+    position: relative;
+    top: 20px;
+    left: 32%;  
+}
+.para1{
+    font-size: 40px;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+.heading{
+    text-align: center;
+    color: rgb(165, 25, 4);
+    font-size: 4em;
+  }
+.sub-head{
+    color: rgb(165, 25, 4);
+}
+.sub-sec{
+    position: relative;
+    align-items: center;
+}
+.line1{
+    border-top: 7px dotted;
+    width: 100px;
+    color: gray;
+}
+.feature-row{
+    font-size: 40px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.para2{
+    font-size: 40px;
+    text-align: center;
+}
+.btn{
+    font-size: 30px;
+    text-align: center;
+    padding-left: 47%;
+
+}
+.footer{
+    background-color: #FFE5CA;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.footer-link{
+    text-align: center;
+    font-size: 3em;
+    padding-top: 60px;
+}
+.contactimg{
+    height: 100px;
+    width: 100px;
+    align-items: center;
+}
